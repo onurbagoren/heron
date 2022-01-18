@@ -2,6 +2,10 @@
 Changelog for package heron_control
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.3.4.1 (2021-01-18)
+--------------------
+* Build instructions with cmake changed in compliance with the new build system
+
 0.3.4 (2021-02-12)
 ------------------
 

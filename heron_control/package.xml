@@ -1,11 +1,12 @@
 <?xml version="1.0"?>
-<package format="2">
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
   <name>heron_control</name>
   <version>0.3.4</version>
   <description>Control package for Heron</description>
 
   <maintainer email="mpurvis@clearpathrobotics.com">Mike Purvis</maintainer>
-  <author email="yanma@clearpathrobotics.com">Yan Ma</author>
+  <maintainer email="yanma@clearpathrobotics.com">Yan Ma</maintainer>
 
   <license>BSD</license>
 
